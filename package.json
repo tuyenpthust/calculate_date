@@ -1,6 +1,6 @@
 {
   "name": "node-calculate-date",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calculate your age and dates",
   "scripts": {
     "build": "tsc"
