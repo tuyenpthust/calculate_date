@@ -1,6 +1,6 @@
 <div  align="center">
 <h1  align="center">Calculate Date</h1>
-<p  align="center">Calculate your age and dates</p>
+<p  align="center">Calculate your ages and dates</p>
 </div>
 
 ## Getting started

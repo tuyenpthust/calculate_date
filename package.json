@@ -1,6 +1,6 @@
 {
-  "name": "date-calculate",
-  "version": "0.2.0",
+  "name": "node-calculate-date",
+  "version": "0.0.1",
   "description": "Calculate your age and dates",
   "scripts": {
     "build": "tsc"
@@ -19,14 +19,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hamzehazizzadeh/calculate_date.git"
+    "url": "git+https://github.com/tuyenpthust/calculate_date.git"
   },
   "author": "Hamzeh Azizzadeh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hamzehazizzadeh/calculate_date/issues"
+    "url": "https://github.com/tuyenpthust/calculate_date/issues"
   },
   "devDependencies": {
     "typescript": "^4.6.3"
-  }
+  },
+  "homepage": "https://github.com/tuyenpthust/calculate_date#readme",
+  "main": "index.js"
 }
